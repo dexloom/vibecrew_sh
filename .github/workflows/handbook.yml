@@ -1,0 +1,13 @@
+name: handbook
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: INDEX.md lists exactly the pages present
+        run: python3 scripts/check-index.py
