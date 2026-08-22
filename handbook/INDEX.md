@@ -17,6 +17,7 @@ page you need — each one stands alone.
 | [10-live-state.md](10-live-state.md) | **For the Assistant:** when to look at this install's actual state instead of reading a page |
 | [11-troubleshooting.md](11-troubleshooting.md) | Something is wrong — symptom, cause, fix |
 | [12-use-cases.md](12-use-cases.md) | Ten recognizable ways operators use VibeCrew — match what someone is trying to do to the flow that serves it |
+| [13-how-to.md](13-how-to.md) | Ten common "how do I…?" questions with direct answers — create-and-dispatch, pipelines, watching agents, approvals, shipping, voice, Telegram, projects, stuck runs, cost |
 
 ## How to use this handbook
 
