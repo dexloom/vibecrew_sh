@@ -16,6 +16,7 @@ page you need — each one stands alone.
 | [09-configuration.md](09-configuration.md) | Every setting VibeCrew reads, where it lives, and which ones the Assistant may change for you |
 | [10-live-state.md](10-live-state.md) | **For the Assistant:** when to look at this install's actual state instead of reading a page |
 | [11-troubleshooting.md](11-troubleshooting.md) | Something is wrong — symptom, cause, fix |
+| [12-use-cases.md](12-use-cases.md) | Ten recognizable ways operators use VibeCrew — match what someone is trying to do to the flow that serves it |
 
 ## How to use this handbook
 
